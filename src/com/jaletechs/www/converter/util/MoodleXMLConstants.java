@@ -1,5 +1,9 @@
 package com.jaletechs.www.converter.util;
 
+/*
+*Constants as seen in Moodle XML Tags
+*/
+
 public interface MoodleXMLConstants {
 	String QUESTION = "question";
 	String NAME = "name";
