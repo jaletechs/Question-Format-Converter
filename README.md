@@ -3,12 +3,13 @@ Convert between popular Question Document formats (e.g. Moodle XML, Aiken, EasyJ
 
 The project can be cloned and used in any IDE of your choice.
 Required Third Party Libraries are:
+
 *Apache POI:
   - poi .jar file
   - poi-ooxml .jar file
   - poi-ooxml-schema .jar file
-*Apache IO
+*Apache IO .jar
 
-*Apache Commons Codec
+*Apache Commons Codec .jar
 
-*JDom 
+*JDom .jar
