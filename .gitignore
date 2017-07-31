@@ -1,0 +1,36 @@
+/web
+/.nb-gradle-properties
+/private
+/.project
+gradle.properties
+gradle/
+# folders
+build/
+dist/
+libs/
+logs/
+nbproject/
+war/
+classes/
+.idea/
+.gradle/
+node_modules/
+# files
+build.xml
+tmp.jrxml
+catalog.xml
+libpeerconnection.log
+*.iml
+/.nb-gradle/
+.DS_Store
+/docker/old_instances
+*~
+/docker/*~
+out/*
+.idea/*
+/src/itest/resources/glassfish-resources.xml
+*.css.map
+*javac
+/bin/
+.classpath
+.settings/
